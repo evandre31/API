@@ -1,2 +1,8 @@
 python -m venv venv :  pour creer venv dans le dossier mere 
  .\/venv/Scripts/activate : activer
+
+
+ pip install django djangorestframework djangorestframework-simplejwt djoser
+ pip freeze
+ django-admin startproject core . : creer le projet core dans le meme dossier
+ python manage.py startapp accounts
