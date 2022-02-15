@@ -1,0 +1,2 @@
+python -m venv venv :  pour creer venv dans le dossier mere 
+ .\/venv/Scripts/activate : activer
