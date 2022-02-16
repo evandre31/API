@@ -6,3 +6,5 @@ python -m venv venv :  pour creer venv dans le dossier mere
  pip freeze
  django-admin startproject core . : creer le projet core dans le meme dossier
  python manage.py startapp accounts
+
+ pip install python_decouple   : for .env   : https://pypi.org/project/python-decouple/ :  https://www.youtube.com/watch?v=myqfTX9ZbTs
